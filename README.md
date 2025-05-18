@@ -2,7 +2,9 @@ Flutter Xylophone App
 
 **Pupi-phone** is a simple and fun musical xylophone app built with Flutter. Tap colorful buttons to play musical notes from C to B. Great for beginners learning Flutter or kids exploring musical sounds!
 
-![Screenshot](screenshot-1.jpg)
+<p align="center">
+  <img src="screenshot-1.jpg" alt="Pupi-phone screenshot" width="250"/>
+</p>
 
 ## 🚀 Features
 
