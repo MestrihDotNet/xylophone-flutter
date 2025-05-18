@@ -1,16 +1,18 @@
-# magic_ball
+Flutter Xylophone App
 
-A new Flutter project.
+**Pupi-phone** is a simple and fun musical xylophone app built with Flutter. Tap colorful buttons to play musical notes from C to B. Great for beginners learning Flutter or kids exploring musical sounds!
 
-## Getting Started
+![Screenshot](screenshot-1.jpg)
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- Colorful buttons for each musical note (C, D, E, F, G, A, B)
+- Smooth, responsive UI
+- Plays corresponding sound when a note is tapped
+- Simple and beginner-friendly Flutter layout
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠 Built With
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Flutter** – UI toolkit for building beautiful apps
+- **Dart** – Programming language used with Flutter
+- **Audio Assets** – Local `.wav` files played with `audioplayers` package
